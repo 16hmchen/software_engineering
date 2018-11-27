@@ -1,12 +1,20 @@
 # software_engineering
 html源代码在 view 文件夹中
+
 for_sale -- 用户待售中物品界面
+
 goods_show -- 商品展示界面
+
 index -- 首页 -- 用户登录状态
+
 index_not_login -- 首页 -- 用户未登录状态
+
 login -- 登录界面
+
 message -- 对话界面
+
 order -- 查看订单界面
+
 profile -- 用户界面
 register -- 注册界面
 sell -- 发布商品界面
